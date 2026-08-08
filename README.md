@@ -17,6 +17,7 @@ Online Play at your own risk! This release is provided as is, with no warranty o
 
 Go here to Flash it via Web https://vegueta-1.github.io/PS5-RapidFire-ESP32-C3/
 
+Proof Of Working Video https://youtube.com/shorts/XrbgRWJu_Dw?feature=share
 
 FEATURES:
 
