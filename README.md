@@ -23,7 +23,6 @@ FEATURES:
 
 <img width="1153" height="1167" alt="Screenshot 2026-08-07 145623" src="https://github.com/user-attachments/assets/07df5f71-71d1-4988-80b2-5b4e0eed464c" />
 
-https://www.youtube.com/shorts/XrbgRWJu_Dw?feature=share
 
 
 How to Connect
