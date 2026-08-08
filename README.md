@@ -127,7 +127,7 @@ Visual Diagram for ESP32 C3 Super Mini Installation.
 
 <img width="1237" height="672" alt="Esp32 C3 Super Mini Wiring Diagram" src="https://github.com/user-attachments/assets/0287bf2f-ac56-4b8a-87db-2a2132c2fd33" />
 Make sure you connect ps5 controller ground to the esp32 in order to work via usb or via Bluetooth !
-
+Very Important remember that always connect the Ground from Esp32 C3 to the Controller Ground!
 
 PCB PS5 Controller triggers R2 Assembly: You Don't need to remove R2 trigger you can solder the point taking the flex out only, fast and easy.
 
