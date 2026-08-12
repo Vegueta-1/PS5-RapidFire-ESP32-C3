@@ -135,7 +135,8 @@ PCB PS5 Controller triggers R2 Assembly: You Don't need to remove R2 trigger you
 BWL-010, TRIGGER ASSEMBLY:
 <img width="1024" height="719" alt="BWL-010_SIDE_A" src="https://github.com/user-attachments/assets/405847e1-c682-4cdf-8fff-20b8c0083488" />
 
-<img width="600" height="450" alt="BDm20" src="https://github.com/user-attachments/assets/315dfb1f-30eb-49c0-a169-39258a8da3c9" />
+<img width="1280" height="960" alt="BDM010" src="https://github.com/user-attachments/assets/0dae3fb1-7ab0-4c59-b334-8c3fd2d7803d" />
+
 
 
 
