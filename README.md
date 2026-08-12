@@ -132,10 +132,16 @@ Very Important remember that always connect the Ground from Esp32 C3 to the Cont
 PCB PS5 Controller triggers R2 Assembly: You Don't need to remove R2 trigger you can solder the point taking the flex out only, fast and easy.
 
 
+
+
 BDM-010, TRIGGER ASSEMBLY:
 <img width="1024" height="719" alt="BWL-010_SIDE_A" src="https://github.com/user-attachments/assets/405847e1-c682-4cdf-8fff-20b8c0083488" />
 
 <img width="1280" height="960" alt="BDM010" src="https://github.com/user-attachments/assets/0dae3fb1-7ab0-4c59-b334-8c3fd2d7803d" />
+
+
+
+
 
 
 
