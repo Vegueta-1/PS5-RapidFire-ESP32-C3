@@ -146,6 +146,7 @@ BWL-020, TRIGGER ASSEMBLY:
 
 <img width="600" height="450" alt="BDm20" src="https://github.com/user-attachments/assets/9f3baa01-9ab2-4c94-aa08-a96ce0766364" />
 
+<img width="600" height="450" alt="R1-R2" src="https://github.com/user-attachments/assets/99383522-0667-4d84-887a-5ca6a73359e6" />
 
 
 
