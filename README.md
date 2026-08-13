@@ -4,7 +4,7 @@ PS5 DUALSENSE R2 Trigger RAPID-FIRE MOD ESP32 C3 Super Mini— Made by Vegueta1
 
 ⚠️FULLY WORKING STATUS — READ BEFORE INSTALLING.
 
-Introducing the PS5 Dual Sense R2 Trigger Rapid-Fire Mod modular rapid-fire system targeting the R2 trigger on a Dual Sense controller revision (BDM-010)
+Introducing the PS5 Dual Sense R2 Trigger Rapid-Fire Mod modular rapid-fire system targeting the R2 trigger on a Dual Sense controller revision (BDM-010 BDM-020 Ect)
 
 This project is open-source and designed to be accessible for hobbyists, with a noob-friendly installation guide. A huge shoutout to RDC for His legendary Dual Sense PCB scans and hardware insights, which made this project possible.
 
