@@ -74,11 +74,17 @@ Perfect for semi-auto weapons or controlled bursts (e.g. 3–5 shots).
 All Features Explained
 
 Calibration (Very Important!)
+
 Manual Calibration:
+
 Cal Released (trigger not pressed)
+
 Cal Pressed (trigger fully pressed)
+
 Apply Manual Cal
+
 Reset Calibration → Restores safe default values.
+
 Good calibration = reliable trigger detection.
 
 Advanced Settings are Default To my Controller, but you Are Free to Play With them to optimize your need
