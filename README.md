@@ -107,8 +107,7 @@ Lower values = better for high SPS.
 Recommended: 5-25ms.
 
 Polarity Don't change this most controller is decreasing by default
-Decreasing (Default)
-Increasing
+
 
 
 Global Buttons
