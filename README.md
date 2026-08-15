@@ -144,10 +144,6 @@ This version is highly optimized for reliability and ease of use. Feel free to s
 
 Visual Diagram for ESP32 C3 Super Mini Installation For BDM-010 And BDM-020 Board:
 
-<img width="1280" height="960" alt="Esp32 C3 Super Mini Wiring Diagram BDM-010 Board" src="https://github.com/user-attachments/assets/a4bb0fd3-17dc-47ef-8ae1-5c5ead5a6ebc" /><img width="1024" height="715" alt="Esp32 C3 Super Mini Wiring Diagram BDM-020 Board" src="https://github.com/user-attachments/assets/38c48dff-98d7-49a3-a011-2c0c717fecf8" />
-
-
-
 <img width="1280" height="960" alt="Esp32 C3 Super Mini Wiring Diagram BDM-010 Board" src="https://github.com/user-attachments/assets/79d71901-07e6-4caf-b3c2-86dbd218cddc" />
 <img width="1024" height="715" alt="Esp32 C3 Super Mini Wiring Diagram BDM-020 Board" src="https://github.com/user-attachments/assets/1778c20d-90d3-46e5-a31d-9f778771aae2" />
 
