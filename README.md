@@ -81,26 +81,26 @@ Apply Manual Cal
 Reset Calibration → Restores safe default values.
 Good calibration = reliable trigger detection.
 
-Advanced Settings
+Advanced Settings are Default To my Controller, but you Are Free to Play With them to optimize your need
 
 Jitter (0-100%)
-Adds small random variations to firing timing. Makes it harder to detect and feels more natural. Recommended: 10-20%. Use this on online play for less risk of getting banned.
+Adds small random variations to firing timing. Makes it harder to detect and feels more natural. Recommended: 10-50%. Use this on online play for less risk of getting banned.
 
 Hysteresis (0-100%)
 Creates a "dead zone" around the trigger threshold to prevent rapid on/off chatter. Recommended: 10-15%.
 
 Debounce (0-500ms)
-Ignores very quick or noisy trigger changes. Recommended: 40-60ms.
+Ignores very quick or noisy trigger changes. Recommended: 8-40ms.
 
 Press Percent (0-100%)
-How far you need to press the trigger to activate firing. Recommended: 90-95%.
+How far you need to press the trigger to activate firing. Recommended: 55-95%.
 
 Pulse Width (5-200ms)
 Duration of each individual "press" signal.
 Lower values = better for high SPS.
-Recommended: 25-40ms.
+Recommended: 5-25ms.
 
-Polarity
+Polarity Don't change this most controller is decreasing by default
 Decreasing (Default)
 Increasing
 
@@ -113,6 +113,8 @@ Reset Trigger State – Fixes stuck or weird behavior
 
 Auto Fix – Quickly applies safer debounce + hysteresis values
 
+Web deep sleep button - What it does deep sleep other words Shutdown triggered from the SoftAP page.
+Make Sure Each Time you Done Playing hit this to Stop Battery Draining Issues Is A safety measure.
 
 Best Practices & Tips
 
