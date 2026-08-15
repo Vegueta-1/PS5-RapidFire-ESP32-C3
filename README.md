@@ -1,6 +1,24 @@
 
 PS5 DUALSENSE R2 Trigger RAPID-FIRE MOD ESP32 C3 Super Mini— Made by Vegueta1
 
+Summary of changes
+
+Resolve the issue where your battery get drained because Deep Sleep bug
+DEEP-SLEEP FIX (v7.4.7):
+
+When controller is OFF the R2 sense line can float to a "pressed" voltage.
+This previously blocked deep sleep and caused boot-loops on forced sleep.
+
+Fixed by:
+
+1) now samples the ADC This prevents an immediate wake when the line is floating at a “0V” or still stuck at the “pressed” level (controller still off), it re‑enters deep sleep to avoid a boot loop.
+
+2) Web UI Now has a proper manual deep sleep button section added. The Esp32 now will deep sleep AUTO if Controller is not detected.
+
+
+Other Minor fixes (v7.4.7):
+
+1) A small fix On R2 Status Display prevents noise from showing as a small press percentage. If you still see a small press percentage on idle run calibration again it will fix the problem.
 
 ⚠️FULLY WORKING STATUS — READ BEFORE INSTALLING.
 
@@ -21,7 +39,8 @@ Proof Of Working Video https://youtube.com/shorts/XrbgRWJu_Dw?feature=share
 
 FEATURES:
 
-<img width="1153" height="1167" alt="Screenshot 2026-08-07 145623" src="https://github.com/user-attachments/assets/07df5f71-71d1-4988-80b2-5b4e0eed464c" />
+<img width="1172" height="1424" alt="Screenshot 2026-08-15 095635" src="https://github.com/user-attachments/assets/7d8efeb2-a916-4a5f-bf98-be7db1f121ae" />
+
 
 
 
