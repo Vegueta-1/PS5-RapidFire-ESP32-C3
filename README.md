@@ -142,38 +142,21 @@ This version is highly optimized for reliability and ease of use. Feel free to s
 
 
 
-Visual Diagram for ESP32 C3 Super Mini Installation.
+Visual Diagram for ESP32 C3 Super Mini Installation For BDM-010 And BDM-020 Board:
 
-<img width="1237" height="672" alt="Esp32 C3 Super Mini Wiring Diagram" src="https://github.com/user-attachments/assets/0287bf2f-ac56-4b8a-87db-2a2132c2fd33" />
-Make sure you connect ps5 controller ground to the esp32 in order to work via usb or via Bluetooth !
+<img width="1280" height="960" alt="Esp32 C3 Super Mini Wiring Diagram BDM-010 Board" src="https://github.com/user-attachments/assets/a4bb0fd3-17dc-47ef-8ae1-5c5ead5a6ebc" /><img width="1024" height="715" alt="Esp32 C3 Super Mini Wiring Diagram BDM-020 Board" src="https://github.com/user-attachments/assets/38c48dff-98d7-49a3-a011-2c0c717fecf8" />
+
+
+
+<img width="1280" height="960" alt="Esp32 C3 Super Mini Wiring Diagram BDM-010 Board" src="https://github.com/user-attachments/assets/79d71901-07e6-4caf-b3c2-86dbd218cddc" />
+<img width="1024" height="715" alt="Esp32 C3 Super Mini Wiring Diagram BDM-020 Board" src="https://github.com/user-attachments/assets/1778c20d-90d3-46e5-a31d-9f778771aae2" />
+
+
+
+
 Very Important remember that always connect the Ground from Esp32 C3 to the Controller Ground!
 
 PCB PS5 Controller triggers R2 Assembly: You Don't need to remove R2 trigger you can solder the point taking the flex out only, fast and easy.
-
-
-
-
-BDM-010, TRIGGER ASSEMBLY:
-<img width="1024" height="719" alt="BWL-010_SIDE_A" src="https://github.com/user-attachments/assets/405847e1-c682-4cdf-8fff-20b8c0083488" />
-
-<img width="1280" height="960" alt="BDM010" src="https://github.com/user-attachments/assets/0dae3fb1-7ab0-4c59-b334-8c3fd2d7803d" />
-
-
-
-
-
-
-
-
-
-BMD-020, TRIGGER ASSEMBLY:
-<img width="1024" height="715" alt="BWL-020_SIDE_A" src="https://github.com/user-attachments/assets/b249f62e-9291-4630-b638-48061bc76cb7" />
-
-<img width="600" height="450" alt="BDm20" src="https://github.com/user-attachments/assets/9f3baa01-9ab2-4c94-aa08-a96ce0766364" />
-
-<img width="600" height="450" alt="R1-R2" src="https://github.com/user-attachments/assets/99383522-0667-4d84-887a-5ca6a73359e6" />
-
-
 
 What You Need:
 
