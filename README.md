@@ -8,12 +8,12 @@ DEEP-SLEEP FIX (v7.4.7):
 
 When controller is OFF the R2 sense line can float to a "pressed" voltage.
 This previously blocked deep sleep and caused boot-loops on forced sleep.
+I remove all auto deep sleep now is compatible in theory with all Ps5 Controller Boards
 
 Fixed by:
 
-1) now samples the ADC This prevents an immediate wake when the line is floating at a “0V” or still stuck at the “pressed” level (controller still off), it re‑enters deep sleep to avoid a boot loop.
-
-2) Web UI Now has a proper manual deep sleep button section added. The Esp32 now will deep sleep AUTO if Controller is not detected.
+1) - Manual sleep via push button long press hold 5s or web UI.
+   - Wake by push button press is immediate and stays awake.
 
 
 Other Minor fixes (v7.4.7):
@@ -39,7 +39,8 @@ Proof Of Working Video https://youtube.com/shorts/XrbgRWJu_Dw?feature=share
 
 FEATURES:
 
-<img width="1172" height="1424" alt="Screenshot 2026-08-15 095635" src="https://github.com/user-attachments/assets/7d8efeb2-a916-4a5f-bf98-be7db1f121ae" />
+<img width="1200" height="1439" alt="Screenshot 2026-08-16 110944" src="https://github.com/user-attachments/assets/ee0665fa-153d-465e-a279-a7717c0b3ab2" />
+
 
 
 
@@ -151,11 +152,10 @@ This version is highly optimized for reliability and ease of use. Feel free to s
 
 Visual Diagram for ESP32 C3 Super Mini Installation For BDM-010 And BDM-020 Board:
 
-<img width="1280" height="960" alt="Esp32 C3 Super Mini Wiring Diagram BDM-010 Board" src="https://github.com/user-attachments/assets/b099ab82-6502-41b9-a785-f55c6cd0c562" />
+<img width="1280" height="960" alt="Esp32 C3 Super Mini Wiring Diagram BDM-010 Board" src="https://github.com/user-attachments/assets/879df085-6542-4a8f-9f19-38400f6ee1c7" />
 
+<img width="1024" height="715" alt="Esp32 C3 Super Mini Wiring Diagram BDM-020 Board" src="https://github.com/user-attachments/assets/5d174501-fc05-4932-953d-47764d97eb78" />
 
-
-<img width="1024" height="715" alt="Esp32 C3 Super Mini Wiring Diagram BDM-020 Board" src="https://github.com/user-attachments/assets/61131258-d28d-48ec-a087-07217d946954" />
 
 
 Very Important remember that always connect the Ground from Esp32 C3 to the Controller Ground!
@@ -166,7 +166,7 @@ What You Need:
 
 - ESP32 C3 Super Mini
 
-- Download Firmware BIN and Flash it
+- Download Firmware ESP32-C3 PS5 DualSense Rapid-Fire Mod v7.4.7 BIN and Flash it
 
 - Data‑capable USB cable
 
