@@ -7,7 +7,7 @@
       "chipFamily": "ESP32-C3",
       "parts": [
         {
-          "path": "Ps5RapidfireEsp32C3.ino.merged.bin",
+          "path": "ESP32-C3 PS5 DualSense Rapid-Fire Mod v7.4.7.bin",
           "offset": 0
         }
       ]
